@@ -1,0 +1,40 @@
+homeid,location,residents,starttime,endtime,income_band,hometype,equivalised_income,occupancy,urban_rural_class,urban_rural_name,build_era,smart_monitors,smart_automation,occupied_days,occupied_nights,entry_floor,outdoor_space,outdoor_drying
+61,Edinburgh,2,06/10/2016 00:00,19/10/2017 07:00,"£48,600 to £53,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1919-1930,Don't own,Don't own,2,7,Ground,Yes - shared with neighbours,Yes
+62,Edinburgh,2,26/08/2016 00:00,30/06/2018 22:59,"£43,200 to £48,599",flat,above_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,1,7,2nd,Yes - shared with neighbours,Yes
+63,Edinburgh,2,28/10/2016 00:00,30/06/2018 22:59,"£54,000 to £65,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1919-1930,Don't own,Don't own,2,7,Ground,Yes - private,Yes
+65,Edinburgh,2,09/11/2016 00:00,30/06/2018 22:59,"£54,000 to £65,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1945-1964,Don't own,Don't own,7,7,Ground,Yes - private,Yes
+73,Edinburgh,3,15/12/2016 00:00,30/06/2018 22:59,Missing,flat,missing,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,Ground,Yes - shared with neighbours,Yes
+90,Edinburgh,1,09/02/2017 00:00,30/06/2018 22:59,"less than £10,800",house_or_bungalow,below_median,single,1,Large Urban Areas,1981-1990,Don't own,Don't own,2,7,Ground,Yes - shared with neighbours,Yes
+96,Midlothian,5,28/02/2017 00:00,30/06/2018 22:59,"£48,600 to £53,999",house_or_bungalow,below_median,multiple,3+,Small Towns or Rural Areas,1919-1930,Don't own,Don't own,4,7,Ground,Yes - private,Yes
+106,Edinburgh,1,13/04/2017 03:00,14/06/2018 11:30,"£32,400 to £37,799",flat,above_median,single,1,Large Urban Areas,1991-1995,Don't own,Don't own,2,5,2nd,Yes - shared with neighbours,No
+105,Midlothian,1,25/04/2017 00:00,29/06/2018 11:00,"£43,200 to £48,599",flat,above_median,single,1,Large Urban Areas,1850-1899,Don't own,Don't own,2,7,4th,Yes - shared with neighbours,No
+136,Edinburgh,1,28/06/2017 09:30,26/06/2018 12:00,"£43,200 to £48,599",flat,above_median,single,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,Ground,Yes - private,
+128,Edinburgh,1,22/06/2017 09:25,30/06/2018 22:59,"£23,400 to £26,999",flat,below_median,single,1,Large Urban Areas,1991-1995,Don't own,Own and use,2,4,2nd,Yes - shared with neighbours,Yes
+139,Edinburgh,3,04/07/2017 10:13,30/06/2018 22:59,"£37,800 to £43,199",flat,below_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,5,7,1st,Yes - shared with neighbours,Yes
+140,Edinburgh,3,04/07/2017 12:56,30/06/2018 22:59,"£54,000 to £65,999",flat,above_median,multiple,1,Large Urban Areas,Before 1850,Don't own,Don't own,6,7,Attic,No,
+145,Edinburgh,2,10/07/2017 08:22,30/06/2018 22:59,"£43,200 to £48,599",flat,above_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,2,6,2nd,Yes - shared with neighbours,Yes
+146,Midlothian,4,11/07/2017 07:19,30/06/2018 22:59,"£43,200 to £48,599",house_or_bungalow,below_median,multiple,1,Large Urban Areas,1931-1944,Don't own,Don't own,7,7,Ground,Yes - private,Yes
+168,WestLothian,4,02/08/2017 07:19,30/06/2018 22:59,"£66,000 to £77,999",house_or_bungalow,above_median,multiple,2,Other Urban Areas,1945-1964,Don't own,Don't own,3,7,Ground,Yes - private,Yes
+169,WestLothian,1,02/08/2017 11:23,30/06/2018 22:59,"£48,600 to £53,999",house_or_bungalow,above_median,single,2,Other Urban Areas,1965-1980,Don't own,Own and use,3,7,Ground,Yes - private,
+171,Edinburgh,0,03/08/2017 10:28,30/06/2018 22:59,"£13,500 to £16,199",flat,missing,missing,1,Large Urban Areas,1965-1980,Don't own,,7,7,Ground,Yes - shared with neighbours,Yes
+162,Edinburgh,2,14/08/2017 06:53,30/06/2018 22:59,"£54,000 to £65,999",flat,above_median,multiple,1,Large Urban Areas,2002 or later,Don't own,Own and use,3,7,3rd,Yes - shared with neighbours,Yes
+175,Midlothian,2,21/08/2017 07:40,30/06/2018 22:59,"£43,200 to £48,599",house_or_bungalow,above_median,multiple,2,Other Urban Areas,1965-1980,Don't own,Don't own,5,7,Ground,Yes - private,Yes
+208,Edinburgh,2,06/10/2017 11:46,30/06/2018 22:59,"£43,200 to £48,599",flat,above_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,3,7,1st,Yes - shared with neighbours,Yes
+212,EastLothian,3,11/10/2017 10:19,30/06/2018 22:59,"£23,400 to £26,999",flat,below_median,multiple,1,Large Urban Areas,1900-1918,Don't own,Don't own,5,7,1st,Yes - private,Yes
+225,Edinburgh,2,24/10/2017 10:17,30/06/2018 22:59,Missing,flat,missing,multiple,1,Large Urban Areas,Before 1850,Don't own,Don't own,6,7,3rd,Yes - shared with neighbours,No
+228,Edinburgh,0,27/10/2017 08:00,30/06/2018 22:59,"£66,000 to £77,999",flat,missing,missing,1,Large Urban Areas,1850-1899,Don't own,Don't own,2,7,2nd,Yes - shared with neighbours,Yes
+227,Edinburgh,2,26/10/2017 07:23,30/06/2018 22:59,"£19,800 to £23,399",flat,below_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,6,6,Ground,Yes - shared with neighbours,Yes
+231,Midlothian,2,30/10/2017 13:41,30/06/2018 22:59,"£32,400 to £37,799",house_or_bungalow,above_median,multiple,2,Other Urban Areas,1965-1980,Don't own,Don't own,7,7,Ground,Yes - private,Yes
+238,Edinburgh,2,02/11/2017 12:45,30/06/2018 22:59,"£37,800 to £43,199",flat,above_median,multiple,1,Large Urban Areas,1919-1930,Own but don't use,Own and use,5,7,Ground,Yes - private,Yes
+242,Edinburgh,3,07/11/2017 12:49,30/06/2018 22:59,"£78,000 to £89,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1965-1980,Don't own,Don't own,4,7,Ground,Yes - private,Yes
+249,Edinburgh,2,13/11/2017 13:29,30/06/2018 22:59,Missing,flat,missing,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,3rd,Yes - shared with neighbours,Yes
+255,Edinburgh,3,23/11/2017 14:44,30/06/2018 22:59,"£19,800 to £23,399",flat,below_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,Basement (level -1),Yes - shared with neighbours,Yes
+262,Edinburgh,2,04/12/2017 08:44,30/06/2018 22:59,"£37,800 to £43,199",flat,above_median,multiple,1,Large Urban Areas,1931-1944,Don't own,Don't own,2,7,Ground,Yes - private,Yes
+264,Edinburgh,4,06/12/2017 13:18,30/06/2018 22:59,"£48,600 to £53,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1945-1964,Don't own,Own and use,4,7,Ground,Yes - private,Yes
+263,Fife,4,06/12/2017 08:50,30/06/2018 22:59,"£32,400 to £37,799",house_or_bungalow,below_median,multiple,2,Other Urban Areas,1945-1964,Don't own,Don't own,3,7,Ground,Yes - private,Yes
+266,Edinburgh,2,07/12/2017 11:50,30/06/2018 22:59,"£66,000 to £77,999",house_or_bungalow,above_median,multiple,1,Large Urban Areas,1945-1964,Don't own,Don't own,4,7,Ground,Yes - private,Don't know
+268,Fife,1,08/12/2017 08:28,30/06/2018 22:59,"£27,000 to £32,399",house_or_bungalow,above_median,single,3+,Small Towns or Rural Areas,1965-1980,Don't own,Don't own,2,7,Ground,Yes - private,Yes
+259,Midlothian,2,11/12/2017 10:17,30/06/2018 22:59,"£23,400 to £26,999",house_or_bungalow,below_median,multiple,2,Other Urban Areas,1945-1964,Don't own,Own and use,0,2,Ground,Yes - private,Yes
+276,Edinburgh,3,19/12/2017 10:25,30/06/2018 22:59,"£48,600 to £53,999",flat,above_median,multiple,1,Large Urban Areas,1900-1918,Own and use,Own and use,7,7,Ground,Yes - private,Yes
+311,Edinburgh,2,12/03/2018 13:50,30/06/2018 22:59,"£16,200 to £19,799",flat,below_median,multiple,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,2nd,Yes - shared with neighbours,
+328,Edinburgh,1,03/04/2018 15:11,30/06/2018 22:59,"£10,800 to £13,499",flat,below_median,single,1,Large Urban Areas,1850-1899,Don't own,Don't own,7,7,Ground,Yes - shared with neighbours,No
